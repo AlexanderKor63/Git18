@@ -1,0 +1,5 @@
+# wefv s'dl
+*.obj
+*.bak
+bin/
+debug/
