@@ -4,10 +4,11 @@
 void main() {
 	int a, b, num, alfa;
 	//....
-	int res = a+b+num;
-	
-	printf("enf of main", alfa);
-	num += 5;
+	int res = a+b+alfa;
+
+	printf("enf of main", alfa, num);
+	num += 5/alfa;
+
 }
 
 
