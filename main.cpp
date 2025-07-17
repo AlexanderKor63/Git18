@@ -2,12 +2,12 @@
 #include <math.h>
 
 void main() {
-	int a, b, c;
+	int a, b, num;
 	//....
-	int res = a+b+c;
+	int res = a+b+num;
 	
 	printf("enf of main");
-	c += 5;
+	num += 5;
 }
 
 
