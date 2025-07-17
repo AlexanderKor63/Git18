@@ -7,6 +7,7 @@ void main() {
 	int res = a+b+c;
 	
 	printf("enf of main");
+	c += 5;
 }
 
 
