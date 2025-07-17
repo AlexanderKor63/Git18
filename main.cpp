@@ -1,7 +1,12 @@
 
 #include <math.h>
 
-void main() {}
+void main() {
+	int a, b, c;
+	//....
+	int res = a+b+c;
+	
+}
 
 
 
