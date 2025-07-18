@@ -1,5 +1,8 @@
 import math
 
-alfa = 1.3
+
+alfa = 1.5
+
 s = math.sin(alfa)
 c = math.cos(alfa)
+
