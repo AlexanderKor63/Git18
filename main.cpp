@@ -1,6 +1,12 @@
 
 #include <math.h>
 
+int test(int a, int b) {
+	// oooo
+	
+	return 0;
+}
+
 void main() {
 	int a, b, num, alfa;
 	//....

@@ -1,3 +1,3 @@
 import math
 
-alfa = 1.347
+alfa = 1.5
