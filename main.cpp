@@ -1,10 +1,18 @@
 
 #include <math.h>
 
+
 int test(int a, int b) {
 	// oooo
 	
 	return 0;
+}
+
+void solve() {
+// asjkv kle
+//lvkdf; ldkl;vk;ld v 
+  double data[1000];
+  
 }
 
 void main() {
