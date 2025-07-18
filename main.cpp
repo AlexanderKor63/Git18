@@ -1,6 +1,11 @@
 
 #include <math.h>
-
+void solve() {
+// asjkv kle
+//lvkdf; ldkl;vk;ld v 
+  double data[1000];
+  
+}
 void main() {
 	int a, b, num, alfa;
 	//....
