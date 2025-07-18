@@ -6,9 +6,9 @@ void main() {
 	//....
 	int res = a+b+alfa;
 
-	printf("enf of main", alfa, num);
+	printf("%d %d \n", alfa, num);
 	num += 5/alfa;
-
+	printf("%d enf of main",num);
 }
 
 
